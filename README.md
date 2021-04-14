@@ -1,7 +1,7 @@
 steps to run the code:
 1. clone the repository from Github
 
-    git clone https://github.com/rputh/dominant_color
+    git clone https://github.com/rputh055/dominant_color
 
 2. change directory to the repository folder
 
